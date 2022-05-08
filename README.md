@@ -37,4 +37,4 @@
 
 #### 作者
 
-<img width="300" height="300" src="https://github.com/Super-XIAOTANG/Deep-Learning/blob/main/IMG/%E8%B5%B5%E5%B0%8F%E6%A3%A0%40Super_XIAOTANG.jpg"/>
+<img width="450" height="450" src="https://github.com/Super-XIAOTANG/Deep-Learning/blob/main/IMG/%E8%B5%B5%E5%B0%8F%E6%A3%A0%40Super_XIAOTANG.jpg"/>
