@@ -11,7 +11,7 @@
 
 #### 安装教程
 
-1.  git clone https://gitee.com/xiaotang_zhao/Deep-Learning.git
+1.  git clone https://github.com/Super-XIAOTANG/Deep-Learning.git
 
 #### 数据链接
 
