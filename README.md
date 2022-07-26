@@ -11,7 +11,7 @@
 
 #### 安装教程
 
-1.  git clone https://github.com/Super-XIAOTANG/Deep-Learning.git
+1.  git clone https://gitee.com/Super_XIAOTANG/Deep-Learning.git
 
 #### 数据链接
 
@@ -31,10 +31,14 @@
 2.  Pytorch02：关于MFCC格式音频数据的分类任务
 3.  Pytorch03：关于CNN的图像分类任务，尝试了Data Augmentation方法
 4.  Pytorch04：关于Self Attention的Speaker语音分类任务 利用了Transformer
-5.  Pytorch05：关于Transformer的文字翻译任务 尚未完成 详细代码可见HW05.ipynb
+5.  Pytorch05：关于Transformer的文字翻译任务尚未完成 详细代码可见HW05.ipynb
 6.  Pytorch06：关于GAN的二次元图像生成任务，使用DCGAN模型
-7.  Pytorch07：
+7.  Pytorch07：关于Bert的QA系统，在预训练模型基础上，引入LR Decay技术
+8.  Pytorch08：关于AutoEncoder的异常检测系统，对比FCN、CONV、VAE三种不同算法
+9.  Pytorch09：关于ML可解释性研究，运用了LIME、Saliency Map和Smooth Grad方法
 
 #### 作者
 
-<img width="450" height="450" src="https://github.com/Super-XIAOTANG/Deep-Learning/blob/main/IMG/%E8%B5%B5%E5%B0%8F%E6%A3%A0%40Super_XIAOTANG.jpg"/>
+<img src="https://gitee.com/Super_XIAOTANG/Deep-Learning/raw/master/IMG/%E8%B5%B5%E5%B0%8F%E6%A3%A0@Super_XIAOTANG.jpg" width=450 height=450 />
+
+
