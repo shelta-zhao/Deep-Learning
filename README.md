@@ -27,15 +27,36 @@
 
 #### 内容目录
 
-1.  Pytorch01：关于新冠肺炎确诊病例的预测分析
-2.  Pytorch02：关于MFCC格式音频数据的分类任务
-3.  Pytorch03：关于CNN的图像分类任务，尝试了Data Augmentation方法
-4.  Pytorch04：关于Self Attention的Speaker语音分类任务 利用了Transformer
-5.  Pytorch05：关于Transformer的文字翻译任务尚未完成 详细代码可见HW05.ipynb
-6.  Pytorch06：关于GAN的二次元图像生成任务，使用DCGAN模型
-7.  Pytorch07：关于Bert的QA系统，在预训练模型基础上，引入LR Decay技术
-8.  Pytorch08：关于AutoEncoder的异常检测系统，对比FCN、CONV、VAE三种不同算法
-9.  Pytorch09：关于ML可解释性研究，运用了LIME、Saliency Map和Smooth Grad方法
+Pytorch01：关于新冠肺炎确诊病例的预测分析
+
+Pytorch02：关于MFCC格式音频数据的分类任务
+
+Pytorch03：关于CNN的图像分类任务，尝试了Data Augmentation方法
+
+Pytorch04：关于Self Attention的Speaker语音分类任务 利用了Transformer
+
+Pytorch05：关于Transformer的文字翻译任务尚未完成 详细代码可见HW05.ipynb
+
+Pytorch06：关于GAN的二次元图像生成任务，使用DCGAN模型
+
+Pytorch07：关于Bert的QA系统，在预训练模型基础上，引入LR Decay技术
+
+Pytorch08：关于AutoEncoder的异常检测系统，对比FCN、CONV、VAE三种不同算法
+
+Pytorch09：关于ML可解释性研究，运用了LIME、Saliency Map和Smooth Grad方法
+
+Pytorch10：关于Adversarial Attack的研究，运用FGSM方法对预训练模型进行攻击
+
+Pytorch11：关于Domain Adaption的研究，用DaNN方法实现真实数据和手绘数据迁移
+
+Pytorch12：关于Reinforcement Learning的飞船降落游戏，利用了Policy Gradient
+
+Pytorch13：关于网络压缩实践，使用了Architecture Design和Knowledge Distillation
+
+Pytorch14：关于Life Long Learning的研究，尝试了Selective Synaptic Plasticity方法
+
+Pytorch15：关于小样本学习的meta learning实践，实现模型初始化参数学习
+
 
 #### 作者
 
